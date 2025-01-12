@@ -18,8 +18,13 @@ This project demonstrates how to use Deep Learning for **sentiment analysis** on
 Results
 
 Accuracy: ~85% on the test set.
+
 Example predictions included in the notebook.
+
 Acknowledgments
+
 Dataset: IMDb Reviews Dataset.
+
 Inspiration: Keras tutorials and TensorFlow documentation.
+
 🌟 If you find this project useful, don't forget to ⭐ the repository!
